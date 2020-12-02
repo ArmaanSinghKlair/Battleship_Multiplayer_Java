@@ -1,4 +1,4 @@
-The program is about 100% complete.
+This is a battleship java multiplayer with graphics and support for a mulitplayer environment using socket threading.
 
 Server can handle multiple connections concurrently
 
